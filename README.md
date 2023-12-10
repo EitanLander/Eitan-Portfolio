@@ -5,8 +5,6 @@ Welcome to my GitHub portfolio! This repository showcases my projects, skills, a
 ## Table of Contents
 - [About Me](#about-me)
 - [Projects](#projects)
-- [Skills](#skills)
-- [Education](#education)
 - [Contact](#contact)
 
 ## About Me
@@ -28,27 +26,8 @@ I am a passionate fullstack developer. I love tackling challenging problems and 
 - Technologies used
 - Link to the project repository or live demo
 
-... (Add more projects as needed)
-
-## Skills
-- List of your key skills (e.g., programming languages, frameworks, tools)
-- Brief description of proficiency level for each skill
-
-## Education
-- Degree, Major
-  - University Name, Graduation Year
-  - Relevant coursework or achievements
-
-- Additional Education or Certifications
-  - Course or Certification Name
-  - Institution, Completion Year
-
 ## Contact
 - Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- Personal Website/Blog: [Your Website](https://www.yourwebsite.com)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
+- LinkedIn: [Eitan Lander](https://www.linkedin.com/in/eitan-lander-b69098278/)
+- Personal Website/Blog: [My Website](https://eitanlander.com)
 
-Feel free to explore my projects and reach out if you have any questions or collaboration opportunities.
-
-Thank you for visiting!
