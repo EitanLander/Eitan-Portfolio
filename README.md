@@ -27,7 +27,7 @@ I am a passionate fullstack developer. I love tackling challenging problems and 
 - Link to the project repository or live demo
 
 ## Contact
-- Email: your.email@example.com
+- Email: eitanlanderpay@gmail.com
 - LinkedIn: [Eitan Lander](https://www.linkedin.com/in/eitan-lander-b69098278/)
 - Personal Website/Blog: [My Website](https://eitanlander.com)
 
