@@ -1,22 +1,24 @@
-import { mobile, backend, web, javascript, typescript, html, css, reactjs, angular, tailwind, nodejs, mongodb, git, bootstrap, docker, react, librevoyage, cryptohouse, whazzaaap, sql } from "../assets";
+import { mobile, backend, web, javascript, typescript, html, css, reactjs, angular, tailwind, nodejs, mongodb, git, bootstrap, docker, react, librevoyage,ecommerce,quantummind, cryptohouse, whazzaaap,uniguideai, sql } from "../assets";
 
 export const navLinks = [
-  {
-    id: "about",
-    title: "About",
-  },
+//   {
+//     id: "about",
+//     title: "About",
+//   },
   {
     id: "work",
-    title: "Work",
+    title: "Email Me",
+    href: "mailto:eitanlander@gmail.com",
   },
   {
     id: "contact",
-    title: "Contact",
+    title: "Whatsapp",
+    href: "https://wa.me/+972547305049",
   },
   {
     id: "resume",
     title: "Resume",
-    href: "/resume.pdf",
+    href: "/eitanlander-resume-fullstack-developer.pdf",
   },
 ];
 
@@ -194,13 +196,35 @@ const projects = [
     image: librevoyage,
     source_code_link: "https://github.com/EitanLander/Libre-Voyage-Third-Project",
   },
+  
+  {
+    name: "QuantumMind-Ai",
+    description: "Unlock the potential of QuantumMind-Ai – Your all-in-one creative hub! Seamlessly generate photos, compose music, produce videos, write code."
+,
+    tags: [
+      {
+        name: "next.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "react",
+        color: "green-text-gradient",
+      },
+      {
+        name: "stripe",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: quantummind,
+    source_code_link: "https://quantummind-ai.vercel.app/",
+  },
   {
     name: "CryptoHouse",
     description: "A Web Application for Real-Time Cryptocurrency Information. Live reports of selected cryptocurrencies are displayed in a graph format.    ",
     tags: [
       {
         name: "javascript",
-        color: "blue-text-gradient",
+        color: "orange-text-gradient",
       },
       {
         name: "rest-api",
@@ -234,6 +258,47 @@ const projects = [
     image: whazzaaap,
     source_code_link: "https://github.com/EitanLander/Whazzaaap",
   },
+  {
+    name: "UniGuideAI",
+    description: "UniGuideAI is your go-to companion for navigating university studies. Personalized learning paths and make informed decisions about what to learn.",
+    tags: [
+      {
+        name: "javascript",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "Chat-GPT",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Fetch API",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: uniguideai,
+    source_code_link: "https://github.com/EitanLander/UniGuideAI",
+  },
+{
+    name: "E-Commerce Shop",
+    description: "Real - Working E-Commerce Shop, Add to cart,Pay with ease with credit card. Buying experience from selection to checkout.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "spring boot",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: ecommerce,
+    source_code_link: "https://github.com/EitanLander/E-Commerce-Shop",
+  },
+
 ];
 
 export { services, technologies, experiences, testimonials, projects };

@@ -3,7 +3,7 @@ import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
-import github from "./github.png";
+import github from "./website.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
@@ -27,8 +27,11 @@ import react from "./company/react.png";
 import tesla from "./company/tesla.png";
 
 import librevoyage from "./librevoyage.png";
+import ecommerce from "./ecommerce.png"
+import quantummind from "./quantummind.png"
 import cryptohouse from "./cryptohouse.png";
 import whazzaaap from "./whazzaaap.png";
+import uniguideai from "./gpt.png";
 
 export {
   logo,
@@ -57,6 +60,9 @@ export {
   react,
   tesla,
   librevoyage,
+  ecommerce,
+  quantummind,
   cryptohouse,
   whazzaaap,
+  uniguideai,
 };

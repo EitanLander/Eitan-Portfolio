@@ -1,6 +1,7 @@
 import { motion } from 'framer-motion';
 import { styles } from '../styles';
 import { ComputersCanvas } from './canvas';
+import underconstuction from "../assets/underconstuction.gif";
 
 
 const Hero = () => {
@@ -13,12 +14,24 @@ const Hero = () => {
         </div>
 
         <div className="relative z-20">
+
+        {/* <h1 className={`${styles.heroHeadText}text-white`}>Hi, I'm <span className="text-[#3666f6]">Eitan</span></h1>
+
+<p className={`${styles.heroSubText} mt-10 text-white-100`}>
+Apologies! 🙏 <br/><br className="sm:block hidden"/>Our website is currently under maintenance. Please stay tuned for the updates. 😊
+        </p>
+
+        <img className="mt-10 mx-auto my-auto" src={underconstuction} alt="Under Construction" /> */}
+
             <h1 className={`${styles.heroHeadText}text-white`}>Hi, I'm <span className="text-[#3666f6]">Eitan</span></h1>
         <p className={`${styles.heroSubText} mt-2 text-white-100`}>
         I'm a full stack developer <br className="sm:block hidden"/> with a deep passion for both frontend and backend development.
         </p>
+
         </div>
         </div>
+
+        
         
         <ComputersCanvas/>
 
